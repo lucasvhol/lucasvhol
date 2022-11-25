@@ -6,13 +6,13 @@
 ### <div align="center">I'm Lucas Holanda,  a programmer  since 2009 🚀</div>  
   
 
-- 🔭 I’m currently working on Volvo Trucks America Latina!  
+- 🔭 I’m currently working on Volvo Trucks America Latina. 
   
 
-- 🌱 I’m currently learning Powerbi and RStudio  
+- 🌱 I’m currently learning Powerbi and RStudio.
   
 
-- ❓ Feel free to ask me about anything and suggest improvements  
+- ❓ Feel free to ask me about anything and suggest improvements. 
   
 
 - ⚡ Fun fact: I'm a diagnosed autistic.  
