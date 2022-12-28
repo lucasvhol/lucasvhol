@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Lucas Holanda,  a programmer  since 2009 🚀</div>  
