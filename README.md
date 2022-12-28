@@ -2,8 +2,9 @@
   
 
 ### <div align="center">I'm Lucas Holanda,  a programmer  since 2009 🚀</div>  
-  
 
+--------------------------------------------------------------------------
+  
 - 🔭 I’m currently working on Volvo Trucks America Latina. 
   
 
@@ -15,6 +16,7 @@
 
 - ⚡ Fun fact: I'm a diagnosed autistic.  
   
+--------------------------------------------------------------------------
 
 <br/>  
 
