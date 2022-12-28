@@ -18,9 +18,6 @@
   
 --------------------------------------------------------------------------
 
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -84,9 +81,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/lucasvhol" target="_blank">
@@ -100,10 +94,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucasvhol&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
