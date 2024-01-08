@@ -5,10 +5,10 @@
 
 --------------------------------------------------------------------------
   
-- 🔭 I’m currently working on Volvo Trucks America Latina. 
+- 🔭 I’m currently working @ Group Volvo (America Latina). 
   
 
-- 🌱 I’m currently learning Powerbi and RStudio.
+- 🌱 I’m a data engineer, but i've also worked as software engineer in the past.
   
 
 - ❓ Feel free to ask me about anything and suggest improvements. 
